@@ -2,7 +2,7 @@ package codewithjohn;
 
 import java.util.Random;
 
-public class Quicksort {
+public class QuickSort {
 
 	public static void main(String[] args) {
 		Random rand = new Random();
