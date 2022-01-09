@@ -1,3 +1,5 @@
+package codewithjohn;
+
 import java.util.Random;
 
 public class InsertionSort {
