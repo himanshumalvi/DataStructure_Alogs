@@ -1,4 +1,4 @@
-# DataStructure_Alogs
+# DataStructure_Alogs Learning source for JAVA DSA
 
 
 ## Merge Sort : 
